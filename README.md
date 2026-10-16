@@ -11,7 +11,7 @@ My work connects electrical engineering with the practical demands of evidence, 
 | Project | Engineering focus |
 | --- | --- |
 | [**Electrical AI Knowledge System**](https://github.com/Wwwa22/electrical-ai-knowledge-system) | Evidence-linked technical knowledge, equipment and case navigation, and source-grounded engineering learning |
-| [**Solar PV Monitoring & Forecasting**](https://github.com/Wwwa22/solar-pv-monitoring-system) | Weather-aware PV monitoring; forecasting study reports R² = 0.987 on 2,567 holdout test rows |
+| [**Solar PV Monitoring & Forecasting**](https://github.com/Wwwa22/solar-pv-monitoring-system) | Weather-aware PV monitoring and hybrid pvlib + ML research; manuscript-reported R² = 0.987 on 2,567 holdout test rows |
 | [**ATHIQ — أثق**](https://github.com/Wwwa22/athiq-privacy-platform) | A secondary product-engineering project: bilingual evidence, review, remediation, and workspace access boundaries |
 
 These documentation-only showcases explain the engineering approach. Source code, operational data, and research-sensitive implementation remain private.
